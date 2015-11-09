@@ -1,0 +1,9 @@
+c:\users\administrador\documents\visual studio 2015\Projects\AluraCSharpArquivo\AluraCSharpArquivo\bin\Debug\AluraCSharpArquivo.exe.config
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\AluraCSharpArquivo\AluraCSharpArquivo\bin\Debug\AluraCSharpArquivo.exe
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\AluraCSharpArquivo\AluraCSharpArquivo\bin\Debug\AluraCSharpArquivo.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\AluraCSharpArquivo\AluraCSharpArquivo\obj\Debug\AluraCSharpArquivo.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\AluraCSharpArquivo\AluraCSharpArquivo\obj\Debug\AluraCSharpArquivo.Editor.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\AluraCSharpArquivo\AluraCSharpArquivo\obj\Debug\AluraCSharpArquivo.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\AluraCSharpArquivo\AluraCSharpArquivo\obj\Debug\AluraCSharpArquivo.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\AluraCSharpArquivo\AluraCSharpArquivo\obj\Debug\AluraCSharpArquivo.exe
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\AluraCSharpArquivo\AluraCSharpArquivo\obj\Debug\AluraCSharpArquivo.pdb
